@@ -5,6 +5,12 @@
 				background-image: url(macMillerCircles.gif);
 				padding-top: 200px;
 			}
+			#header-gif{
+			position: absolute;
+			width: 100vw;
+			height: auto;
+			z-index: -1;
+			}
 			#section2{
 				background-color: #A08179;
 				margin-left: auto;
