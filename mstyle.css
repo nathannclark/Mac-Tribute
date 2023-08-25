@@ -1,6 +1,9 @@
 			h1{
 				margin-bottom: 0px;
 			}
+			body{
+				background-color: #A08179;
+			}
 			#section1{
 				background-image: url(macMillerCircles.gif);
 				padding-top: 200px;
