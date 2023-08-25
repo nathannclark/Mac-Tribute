@@ -1,0 +1,118 @@
+h1{
+				margin-bottom: 0px;
+			}
+			#section1{
+				background-image: url(macimages/macMillerCircles.gif);
+				padding-top: 200px;
+			}
+			#section2{
+				background-color: #A08179;
+				margin-left: auto;
+				margin-right: auto;
+				width: 960px;
+				margin-top: 0px;
+				padding-top: 0px;
+				color: #FFCED6;
+			}
+			#column1{
+				float: left;
+				width: 640px;
+				background-color: #A08185;
+			}
+			.clear{
+				clear: both;
+			}
+			#column2{
+				text-align: center;
+				float: left;
+				width: 320px;
+			}
+			.mixtapes{
+				width: 75%;
+				padding-left: 15px;
+				padding-top: 5px;
+			}
+			.spacing{
+				padding-bottom: 75px;
+				padding-top: 25px;
+			}
+			.spacing p {
+				visibility: hidden;
+			}
+			.spacing:hover p{
+				visibility: visible;
+			}
+			.spacing img {
+				border-radius: 25%;
+			}
+			#subsection1{
+				/*float: left;*/
+				padding-left: 10px;
+			}
+			#list{
+				padding-left: 10px;
+			}
+			ul{
+				padding-top: 0px;
+				margin-top: 0px;
+			}
+			h2{
+				margin-bottom: 0px;
+			}
+			#footernotes{
+				margin-top: 0px;
+				color: #F6C3C1;
+			}
+			#liveFree{
+				float: right;
+				padding-right: 10px;
+				width: 200px;
+			}
+			#endingVideo{
+				text-align: center;
+				padding-bottom: 10px;
+				margin-bottom: 0px;
+			}
+			#missMac{
+				color: #F6C3C1;
+				margin-left: auto;
+				margin-right: auto;
+			}
+			.info{
+				padding-left: 10px;
+			}
+			#kids{
+				float: left;
+				width: 200px;
+				padding-right: 5px;
+			}
+			#blue{
+				float: right;
+				width: 200px;
+				padding-right: 10px;
+			}
+			#movies{
+				float: left;
+				width: 200px;
+				padding-right: 5px;
+			}
+			#goodAM{
+				float: right;
+				width: 200px;
+				padding-right: 10px;
+			}
+			#divine{
+				float: left;
+				width: 200px;
+				padding-right: 5px;
+			}
+			#swimming{
+				float: right;
+				width: 200px;
+				padding-right: 10px;
+			}
+			#circles{
+				float: right;
+				width: 200px;
+				padding-right: 10px;
+			}
